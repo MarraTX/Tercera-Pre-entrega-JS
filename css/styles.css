@@ -38,14 +38,4 @@ form#classForm button[type="submit"].btn {
   border: 2px solid #cc8f66 !important;
   border-radius: 15px !important;
 }
-.arrow-icon {
-  font-size: 1.5rem;
-  margin-left: 0.5rem;
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
-}
-
-.arrow-icon.show {
-  opacity: 1;
-}
 
